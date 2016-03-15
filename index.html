@@ -19,10 +19,11 @@ $(document).bind("mobileinit", function(){
 
 <!--<script type="text/javascript" src="localConn.js"></script>-->
 <script type="text/javascript" src="externalConn.js"></script>
-
 <!--<script type="text/javascript" src="delegates.js"></script>-->
 <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
 <link href="SpryAssets/SpryStackedContainers.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="themes/advantage.min.css" />
+<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
 <link href="style/main2.css" rel="stylesheet" type="text/css">
 
 </head>
@@ -63,8 +64,8 @@ $(document).bind("mobileinit", function(){
         <li><a href="#day4">Tuesday 19th April 2016</a></li>
 		<li><a href="#day5">Wednesday 20th April 2016</a></li>      </ul>
       </div>
-      <div id="app_sponsor_logo"><a href="#app_sponsor"><img src="site_images/iphone5_menu_intuitive_base.png" width="50%"></a>
-    </div>
+      <div class="app_sponsor_logo"><a href="#app_sponsor"><img src="site_images/iphone5_menu_intuitive_base.png" width="60%"></a>
+    </div><!--end app_sponsor_logo-->
   </div><!-- end schedulemenu-->
   
   <!--SESSION LIST-->
@@ -80,8 +81,8 @@ $(document).bind("mobileinit", function(){
         <li><a href="#forum_list">Business Break-outs</a></li>
       </ul>
       </div>
-      <div id="app_sponsor_logo"><a href="#app_sponsor"><img src="site_images/iphone5_menu_intuitive_base.png" width="50%"></a>
-    </div>
+      <div class="app_sponsor_logo"><a href="#app_sponsor"><img src="site_images/iphone5_menu_intuitive_base.png" width="60%"></a>
+    </div><!--end app_sponsor_logo-->
   </div><!--end session_list-->
   
   <!-- START OF PLENARY BLOCK -->
@@ -128,7 +129,7 @@ $(document).bind("mobileinit", function(){
       <a href="#plenary_detail" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
     <div spry:detailregion="dsPlenary" role="main"  class="ui-content SpryHiddenRegion">
       <div spry:choose="spry:choose">
-        <div spry:when="'{spkr_image1}' != '' &amp;&amp; '{spkr_image1}' != 'undefined'" class="top_detail"> <img src="http://www.thetravelconvention.com/uploads/{spkr_image1}" alt="{spkr_heading}" width="75" height="95" border="0">
+        <div spry:when="'{spkr_image1}' != '' &amp;&amp; '{spkr_image1}' != 'undefined'" class="top_detail"> <img src="../uploads/{spkr_image1}" alt="{spkr_heading}" width="75" height="95" border="0">
           <h1>{spkr_heading}</h1>
           <h2>{cms_heading}</h2>
           <h3>{time} - {friendly_date}</h3>
@@ -189,7 +190,7 @@ $(document).bind("mobileinit", function(){
       <a href="#specialist_detail" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
     <div spry:detailregion="dsSpecialist" role="main"  class="ui-content SpryHiddenRegion">
       <div spry:choose="spry:choose">
-        <div spry:when="'{spkr_image1}' != '' &amp;&amp; '{spkr_image1}' != 'undefined'" class="top_detail"> <img src="http://www.thetravelconvention.com/uploads/{spkr_image1}" alt="{spkr_heading}" width="75" height="95" border="0">
+        <div spry:when="'{spkr_image1}' != '' &amp;&amp; '{spkr_image1}' != 'undefined'" class="top_detail"> <img src="../uploads/{spkr_image1}" alt="{spkr_heading}" width="75" height="95" border="0">
           <h1>{spkr_heading}</h1>
           <h2>{cms_heading}</h2>
           <h3>{time} - {friendly_date}</h3>
@@ -207,7 +208,7 @@ $(document).bind("mobileinit", function(){
   </div><!--end specialist_session_speaker_detail-->
   
   <!-- START OF MARKETING & INNOVATION FORUM BLOCK -->
-  <div data-role="page" id="forum_list" >
+  <div data-role="page" id="forum_list">
     <div data-role="header" data-position="fixed"data-theme="b">
       <h1>Business Break-outs</h1>
       <a href="#session_list" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
@@ -249,7 +250,7 @@ $(document).bind("mobileinit", function(){
       <a href="#forum_detail" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
     <div spry:detailregion="dsForum" role="main" class="ui-content SpryHiddenRegion">
       <div spry:choose="spry:choose">
-        <div spry:when="'{spkr_image1}' != '' &amp;&amp; '{spkr_image1}' != 'undefined'" class="top_detail"> <img src="http://www.thetravelconvention.com/uploads/{spkr_image1}" alt="{spkr_heading}" width="75" height="95" border="0">
+        <div spry:when="'{spkr_image1}' != '' &amp;&amp; '{spkr_image1}' != 'undefined'" class="top_detail"> <img src="../uploads/{spkr_image1}" alt="{spkr_heading}" width="75" height="95" border="0">
           <h1>{spkr_heading}</h1>
           <h2>{cms_heading}</h2>
           <h3>{time} - {friendly_date}</h3>
@@ -357,7 +358,7 @@ $(document).bind("mobileinit", function(){
       </div>
 </div>
      <div data-role="footer">
-		<a href="#app_sponsor"><img src="site_images/iphone5_menu_intuitive_base.png" width="95%"></a>
+		<a href="#app_sponsor"><img src="site_images/iphone5_menu_intuitive_base.png" width="60%"></a>
 	</div><!--end footer--> 
   </div><!--end contact_page-->
   
@@ -395,7 +396,7 @@ $(document).bind("mobileinit", function(){
 <h1>Delegates</h1>
 <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a>  </div>
 <div role="main" class="ui-content">
-<div id="attendee_sponsor">Attendee List Brought to you by Intuitive</div>
+<!--<div id="attendee_sponsor">Attendee List Brought to you by Intuitive</div>-->
 <div id="search_area">
 <form>
 <input data-type="search" id="divOfPs-input">
@@ -425,7 +426,7 @@ $(document).bind("mobileinit", function(){
         <br>
         <br>
 
-      <p><a href="mailto:{Email_Address}?cc={G}&subject=I am attending The Travel Convention 2015" class="ui-btn ui-mini ui-icon-mail ui-btn-icon-right">Send {First_Name} an email </a></p>
+      <p><a href="mailto:{Email_Address}?cc={G}&subject=I am attending The Advantage Conference 2016" class="ui-btn ui-mini ui-icon-mail ui-btn-icon-right">Send {First_Name} an email </a></p>
       </div>
       </div>
     </div>
