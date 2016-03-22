@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_Recordset1" value="name:shedule_id;datatype:int,name:title_date;datatype:string,name:part_of_day;datatype:string,name:start_time;datatype:string,name:end_time;datatype:string,name:title;datatype:string,name:publish;datatype:string,name:sort_order;datatype:int" /></info>
