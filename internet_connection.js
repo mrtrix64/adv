@@ -23,7 +23,7 @@
 	function onBodyLoad()
 	{		
 		document.addEventListener("deviceready", onDeviceReady, false);
-		alert (hello);
+		alert ('hello');
 		
 	}
 	
