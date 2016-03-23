@@ -39,6 +39,7 @@
     
   
   function loadStaticXML () {
+	  alert ("Running Static XML");
 		var dsSponsors = new Spry.Data.XMLDataSet("xml_static_data/sponsors.xml", "recordset/record", {sortOrderOnLoad: "ascending"});
 		dsSponsors.setColumnType("description", "html");
 		dsSponsors.setColumnType("aims", "html");
