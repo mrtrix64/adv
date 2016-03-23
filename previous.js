@@ -38,6 +38,7 @@
 	}
     
   
+<<<<<<< HEAD
   function loadStaticXML () {
 		var dsSponsors = new Spry.Data.XMLDataSet("xml_static_data/sponsors.xml", "recordset/record", {sortOrderOnLoad: "ascending"});
 		dsSponsors.setColumnType("description", "html");
@@ -115,6 +116,9 @@
 		dsSocial.setColumnType("sort_order", "number");
 		dsSocial.setColumnType("date_time", "number");
 		var delegates = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/delegates2.php?view_xml=1", "recordset/record");  }
+=======
+  
+>>>>>>> origin/master
   
   
   
@@ -145,12 +149,16 @@
 		 
 		 if (states[networkState] == 'No network connection') {
   			alert('It appears you have no network connection. Please switch in your wi-fi or 3G to enable this App');
+<<<<<<< HEAD
 			loadStaticXML ();
 			
+=======
+>>>>>>> origin/master
 			};
 			
 		if (states[networkState] == 'Uknown connection') {
   			alert('It appears you have no network connection. Please switch in your wi-fi or 3G to enable this App');
+<<<<<<< HEAD
 			loadStaticXML ()
 			};	
 			
@@ -159,6 +167,9 @@
 			loadDynamicXML ();
 			};				
 			
+=======
+			};	
+>>>>>>> origin/master
        
     }
 	

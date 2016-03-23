@@ -278,9 +278,13 @@ div[data-role=header] a.ui-corner-all, div[data-role=content] a.ui-corner-all {
 	margin-top: 0 !important;
 	padding-top: 0 !important;
 }
+<<<<<<< HEAD
 #delegate_page div.elements {
 	/*margin-top: 3em;*/
 }
+=======
+
+>>>>>>> origin/master
 @media only screen and (min-device-width:320px) and (max-device-width:667px) { 
 body {
 	overflow:hidden;
@@ -327,7 +331,11 @@ div[data-role=content] {
 
 #delegate_listview {
 	margin: 0px;
+<<<<<<< HEAD
 	padding: 0px;	/*display: none;*/
+=======
+	padding: 0px 0px 0px 7px;
+>>>>>>> origin/master
 }
 #message {
 	/*display: none;*/
