@@ -5,7 +5,6 @@ dsSponsors.setColumnType("aims", "html");
 dsSponsors.setColumnType("website", "html");
 var dsSchedule = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/schedule.php?view_xml=1", "recordset/record", {sortOnLoad: "sort_order", sortOrderOnLoad: "ascending"});
 dsSchedule.setColumnType("title_date", "number");
-//dsSchedule.setColumnType("end_time", "number");
 dsSchedule.setColumnType("title", "html");
 dsSchedule.setColumnType("sort_order", "number");
 var dsLeisure = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/leisure.php?view_xml=1", "recordset/record");

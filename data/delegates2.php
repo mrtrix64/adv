@@ -1,4 +1,4 @@
-<?php require_once('../Connections/abtaFrontConn.php'); ?>
+<?php require_once('../../Connections/abtaFrontConn.php'); ?>
 <?php
 if (!function_exists("GetSQLValueString")) {
 function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
@@ -32,7 +32,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 }
 
 mysql_select_db($database_abtaFrontConn, $abtaFrontConn);
-$query_Recordset1 = "SELECT * FROM delegates WHERE Privacy_Required = 'F' ORDER BY Organization ASC";
+$query_Recordset1 = "SELECT * FROM delegates ORDER BY Organization ASC";
 $Recordset1 = mysql_query($query_Recordset1, $abtaFrontConn) or die(mysql_error());
 $row_Recordset1 = mysql_fetch_assoc($Recordset1);
 $totalRows_Recordset1 = mysql_num_rows($Recordset1);

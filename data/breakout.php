@@ -1,4 +1,4 @@
-<?php require_once('../Connections/abtaFrontConn.php'); ?>
+<?php require_once('../../Connections/abtaFrontConn.php'); ?>
 <?php
 if (!function_exists("GetSQLValueString")) {
 function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
@@ -49,6 +49,9 @@ $query_Recordset1 = "SELECT cms_content.cms_id,
 	cms_content.speaker2_name,
 	cms_content.speaker2_desc,
 	cms_content.speaker2_img,
+	cms_content.speaker3_name,
+	cms_content.speaker3_desc,
+	cms_content.speaker3_img,
 	cms_content.date_time, 
 	cms_content.time, 
 	schedule_title.schedule_title_id, 

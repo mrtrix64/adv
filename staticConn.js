@@ -5,7 +5,6 @@ dsSponsors.setColumnType("website", "html");
 dsSponsors.setColumnType("exhibitor_name", "string");
 var dsSchedule = new Spry.Data.XMLDataSet("xml_static_data/schedule.xml", "recordset/record", {sortOnLoad: "sort_order", sortOrderOnLoad: "ascending"});
 dsSchedule.setColumnType("title_date", "number");
-dsSchedule.setColumnType("end_time", "number");
 dsSchedule.setColumnType("title", "html");
 dsSchedule.setColumnType("sort_order", "number");
 var dsLeisure = new Spry.Data.XMLDataSet("xml_static_data/leisure.xml", "recordset/record");
