@@ -146,7 +146,7 @@
 		 //alert('Connection type: ' + states[networkState]);
 		 
 		 if (states[networkState] == 'No network connection') {
-  			alert('It appears you have no network connection. Please switch in your wi-fi or 3G to enable this App');
+  			alert('It appears you have no network connection. You idiot! Turn on your Wi-Fi stick a coathanger on your head');
 			alert ("Running Static XML");
 		var dsSponsors = new Spry.Data.XMLDataSet("xml_static_data/sponsors.xml", "recordset/record", {sortOrderOnLoad: "ascending"});
 		dsSponsors.setColumnType("description", "html");
