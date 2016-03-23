@@ -153,8 +153,8 @@
 			};
 			
 		if (states[networkState] == 'Uknown connection') {
-  			alert('It appears you have no network connection. Please switch in your wi-fi or 3G to enable this App');
-		alert ("Running Static XML you knob!");
+  			alert('It appears you have no network connection. Please switch in your wi-fi or 3G to enable this Appsssssssssssssssssssssssssssssss');
+		alert ('Running Static XML you knob!');
 		/*var dsSponsors = new Spry.Data.XMLDataSet("xml_static_data/sponsors.xml", "recordset/record", {sortOrderOnLoad: "ascending"});
 		dsSponsors.setColumnType("description", "html");
 		dsSponsors.setColumnType("aims", "html");
