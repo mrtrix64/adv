@@ -1,0 +1,35 @@
+<!doctype html>
+<html xmlns:spry="http://ns.adobe.com/spry">
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<script src="SpryAssets/xpath.js" type="text/javascript"></script>
+<script src="SpryAssets/SpryData.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryMasterDetail.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+var dsPlenary = new Spry.Data.XMLDataSet("xml_static_data/schedule.xml", "recordset/record");
+dsPlenary.setColumnType("title", "html");
+dsPlenary.setColumnType("sort_order", "number");
+</script>
+<!--<script type="text/javascript" src="staticConn.js"></script>-->
+
+</head>
+
+<body>
+<div class="MasterDetail">
+  <div spry:region="dsPlenary" class="MasterContainer">
+    <div class="MasterColumn" spry:repeat="dsPlenary" spry:setrow="dsPlenary" spry:hover="MasterColumnHover" spry:select="MasterColumnSelected">{shedule_id}</div>
+  </div>
+  <div spry:detailregion="dsPlenary" class="DetailContainer">
+    <div class="DetailColumn">{title_date}</div>
+    <div class="DetailColumn">{part_of_day}</div>
+    <div class="DetailColumn">{start_time}</div>
+    <div class="DetailColumn">{end_time}</div>
+    <div class="DetailColumn">{title}</div>
+    <div class="DetailColumn">{publish}</div>
+    <div class="DetailColumn">{sort_order}</div>
+  </div>
+  <br style="clear:both" />
+</div>
+</body>
+</html>
