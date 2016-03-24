@@ -48,17 +48,17 @@
 
     // Wait for Cordova to load
     // 
-    //document.addEventListener("deviceready", onDeviceReady, false);
+    document.addEventListener("deviceready", onDeviceReady, false);
 
     // Cordova is loaded and it is now safe to make calls Cordova methods
     //
-    //function onDeviceReady() {
-        //checkConnection();
-    //}
+    function onDeviceReady() {
+        checkConnection();
+    }
 
-    //function checkConnection() {
+    function checkConnection() {
         var networkState = navigator.network.connection.type;
-		//alert(networkState);
+		alert(networkState);
 
         var states = {};
         states[Connection.UNKNOWN]  = 'Uknown connection';
@@ -79,7 +79,7 @@
 			
 		 else 	{
 			 alert ("Connected");
-			 	var dsSponsors = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/sponsors.php?view_xml=1", "recordset/record", {sortOrderOnLoad: "ascending"});
+			 var dsSponsors = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/sponsors.php?view_xml=1", "recordset/record", {sortOrderOnLoad: "ascending"});
 				dsSponsors.setColumnType("description", "html");
 				dsSponsors.setColumnType("aims", "html");
 				dsSponsors.setColumnType("website", "html");
@@ -116,4 +116,4 @@
 				dsSocial.setColumnType("date_time", "number");
 				var delegates = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/delegates2.php?view_xml=1", "recordset/record");
     }
-	//}
+	}
