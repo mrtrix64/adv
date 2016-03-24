@@ -41,7 +41,7 @@
         }
         else
         {
-            alert("WARNING... Your device is offline. This App will use cached data and may be out of date.");
+            alert("WARNING... Your device is offline. This App will use cached data which may be out of date.");
 				var dsSponsors = new Spry.Data.XMLDataSet("xml_static_data/sponsors.xml", "recordset/record", {sortOrderOnLoad: "ascending"});
 				dsSponsors.setColumnType("description", "html");
 				dsSponsors.setColumnType("aims", "html");
