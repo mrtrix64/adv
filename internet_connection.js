@@ -1,5 +1,12 @@
 // JavaScript Document
-
+        if(navigator.onLine)
+        {
+            alert("Browser is online");
+        }
+        else
+        {
+            alert("Browser is offline");
+        }
 
 
 
@@ -24,8 +31,8 @@
 	
 	function onBodyLoad()
 	{		
-		document.addEventListener("deviceready", onDeviceReady, false);
-		alert ('hello');
+		//document.addEventListener("deviceready", onDeviceReady, false);
+		//alert ('hello');
 		
 	}
 	
