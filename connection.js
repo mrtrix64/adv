@@ -1,7 +1,7 @@
 // JavaScript Document
         if(navigator.onLine)
         {
-            alert("Browser is online");
+            //alert("Browser is online");
 				var dsSponsors = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/sponsors.php?view_xml=1", "recordset/record", {sortOrderOnLoad: "ascending"});
 				dsSponsors.setColumnType("description", "html");
 				dsSponsors.setColumnType("aims", "html");
@@ -41,7 +41,7 @@
         }
         else
         {
-            alert("Browser is offline");
+            alert("WARNING... Your device is offline. This App will use cached data and may be out of date.");
 				var dsSponsors = new Spry.Data.XMLDataSet("xml_static_data/sponsors.xml", "recordset/record", {sortOrderOnLoad: "ascending"});
 				dsSponsors.setColumnType("description", "html");
 				dsSponsors.setColumnType("aims", "html");
