@@ -5,7 +5,7 @@
         id = "com.advantagetravel"
         version = "0.0.3">
 <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-<string>1</string>
+<string>2</string>
 </gap:config-file>
 	<name>Advantage Travel</name>
 
