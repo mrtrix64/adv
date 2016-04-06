@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<recordset total="15">
+<recordset total="14">
   <record>
     <shedule_id>
       <![CDATA[167]]>
@@ -14,16 +14,18 @@
       <![CDATA[09:00]]>
     </start_time>
     <end_time>
-      <![CDATA[09:00]]>
+      <![CDATA[]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>09:00</b>
-        </p>
-        <p>
-        </p>
-        <p>We will be arriving in Genoa at 9am, you will be provided
-        with your disembarkation information the evening before.
-        </p>]]>
+    <![CDATA[<p><b>09:00</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>We will be arriving in Genoa at 9am, you will be provided
+      
+      with your disembarkation information the evening before.</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -43,21 +45,35 @@
       <![CDATA[m]]>
     </part_of_day>
     <start_time>
-      <![CDATA[08:00]]>
+      <![CDATA[08:30]]>
     </start_time>
     <end_time>
       <![CDATA[10:30]]>
     </end_time>
     <title>
-      <![CDATA[<p>We will awake to cruising our way to Barcelona where we
-        will arrive at 1pm. This will be the first day of conference.</p>
-        <p><b>08:00 &ndash; 16:00</b>
-        </p>
-        <p>The registration desk will be open at the Atrium</p>
-        <p><b>08:30 &ndash; 10:30</b>
-        </p>
-        <p>Plenary Conference Sessions will take place in the Teatro
-        L&rsquo;avanguardia on Deck 6/7.</p>]]>
+    <![CDATA[<p>We will awake to cruising our way to Barcelona where we
+      
+      will arrive at 1pm. This will be the first day of conference.</p>
+      
+      <p><b>08:00 &ndash; 16:00</b>
+      
+      </p>
+      
+      <p>The registration desk will be open at the Atrium.</p>
+      
+      <p><b>08:30 &ndash; 10:30</b>
+      
+      </p>
+      
+      <p>Plenary Conference Sessions will take place in the Teatro
+      
+      L&rsquo;avanguardia on Deck 6.</p>
+      
+      <p>Keynote speaker: Trend Spotter Daniel Levine</p>
+      
+      <p>Industry Vision: Managing Political, Economic and Legislative Change</p>
+      
+      <p>Advantage Vision: Delivering Continued Benefit, Julia Lo Bue-Said</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -83,20 +99,47 @@
       <![CDATA[10:30]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>08:00 &ndash; 16:00</b>
-        </p>
-        <p>
-        </p>
-        <p>The registration desk will be open at the Atrium on Deck 9.
-        </p>
-        <p><b>08:30 &ndash; 10:30</b>
-        </p>
-        <p>Leisure Breakout: (Eyes) Open to the Possibilities in the Teatro
-        L&rsquo;avanguardia on Deck 6/7.
-        </p>
-        <p>Corporate Breakout: TMC 20/20 Vision &ndash; Progress and
-        Potential in the Insolito Lounge on Deck 7.
-        </p>]]>
+    <![CDATA[<p><b>08:00 &ndash; 16:00</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>The registration desk will be open at the Atrium.</p>
+      
+      <p><b>08:30 &ndash; 10:30</b>
+      
+      </p>
+      
+      <p><b>Corporate Breakout Insolito Lounge on Deck 7</b>
+      
+      </p>
+      
+      <p><b>TMC 20/20 Vision &ndash; Progress and
+      
+      Potential</b>
+      
+      </p>
+      
+      <p>The Missing Link: Have we got (Business Travel) news for you?</p>
+      
+      <p>Creating the Vision</p>
+      
+      <p><b>Leisure Breakout Teatro L&rsquo;avanguardia on Deck 6</b>
+      
+      </p>
+      
+      <p><b>(Eyes) Open to the Possibilities</b>
+      
+      </p>
+      
+      <p>You have got to be kidding</p>
+      
+      <p>Caught on Camera: Vlogging - The director's cut</p>
+      
+      <p>Seeing the brand benefits</p>
+      
+      <p></p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -119,19 +162,22 @@
       <![CDATA[13:00]]>
     </start_time>
     <end_time>
-      <![CDATA[19:00]]>
+      <![CDATA[16:30]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>13:00 &ndash; 15:00</b>
-        </p>
-        <p>We will be embarking MSC Fantasia from 1pm. You will be
-        required to check-in by 3pm and we will be setting sail at 5pm so please make
-        sure you are aboard in good time. Please note you will be required to take part
-        in a muster drill before we set sail and your on-board identity card will be
-        scanned on your attendance at the drill so please attend.</p>
-        <p><b>13:00 &ndash; 16:30</b>
-        </p>
-        <p>The registration desk will be open at the Atrium</p>]]>
+    <![CDATA[<p><b>13:00 &ndash; 15:00</b>
+      
+      </p>
+      
+      <p>We will be embarking MSC Fantasia from 1pm. You will be
+      
+      required to check-in by 3pm and we will be setting sail at 5pm.</p>
+      
+      <p><b>13:00 &ndash; 16:30</b>
+      
+      </p>
+      
+      <p>The registration desk will be open at the Atrium.</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -151,23 +197,37 @@
       <![CDATA[m]]>
     </part_of_day>
     <start_time>
-      <![CDATA[08:00]]>
+      <![CDATA[09:00]]>
     </start_time>
     <end_time>
-      <![CDATA[16:00]]>
+      <![CDATA[13:00]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>08:00</b>
-        </p>
-        <p></p>
-        <p>We will arrive in Palma, breakfast will be available in the
-        Zanzibar buffet restaurant on Deck 14 between 7-9am.</p>
-        <p><b>08:00 &ndash; 16:00</b>
-        </p>
-        <p>The registration desk will be open at the Atrium</p>
-        <p><b>09:00 &ndash; 13:00</b>
-        </p>
-        <p>Speed-dating will take place on board ship.</p>]]>
+    <![CDATA[<p><b>08:00</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>We will arrive in Palma, breakfast will be available in the
+      
+      Zanzibar buffet restaurant on Deck 14.</p>
+      
+      <p><b>08:00 &ndash; 16:00</b>
+      
+      </p>
+      
+      <p>The registration desk will be open at the Atrium.</p>
+      
+      <p><b>09:00 &ndash; 13:00</b>
+      
+      </p>
+      
+      <p>Speed-dating will take place on board ship.</p>
+      
+      <p>Corporate speed dating in the Insolito Lounge on Deck 7.</p>
+      
+      <p>Leisure speed-dating in L'Africana Buffet Restaurant on Deck 14.</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -193,12 +253,21 @@
       <![CDATA[19:00]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>17:30 &ndash; 19:00</b>
-        </p>
-        <p>We will be hosting our &lsquo;Sail Away&rsquo; drinks reception on deck
-        15 in the Zen Bar at 5pm which will provide us with fantastic views of Genoa as
-        we sail away. This will be followed by a buffet dinner and drinks from 7pm in L&rsquo;Africana on Deck 14. The dress code for this evening is casual. Please note all evening dress codes are applicable for all
-        ship guests for these ship wide events, these dress codes are not exclusive to Advantage.</p>]]>
+    <![CDATA[<p><b>17:30 &ndash; 19:00</b>
+      
+      </p>
+      
+      <p>We will be hosting our &lsquo;Sail Away&rsquo; drinks reception on deck
+      
+      15 in the Zen Bar at 5pm which will provide us with fantastic views of Genoa as
+      
+      we sail away.&nbsp;</p>
+      
+      <p>This will be followed by a buffet dinner and drinks in L&rsquo;Africana on Deck 14.&nbsp;</p>
+      
+      <p>The dress code for this evening is smart casual. Please note all evening dress codes are applicable for all
+      
+      ship guests for these ship wide events, these dress codes are not exclusive to Advantage.</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -224,17 +293,31 @@
       <![CDATA[13:30]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>10:30 &ndash; 11:00</b>
-        </p>
-        <p>
-        </p>
-        <p>Coffee Break for all delegates in Transatlantico on Deck 7.
-        </p>
-        <p><b>11:00 &ndash; 13:30</b>
-        </p>
-        <p>Plenary session &ndash; keynote speaker Chris Hadfield in the
-        Teatro L&rsquo;avanguardia on Deck 6/7.
-        </p>]]>
+    <![CDATA[<p><b>10:30 &ndash; 11:00</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>Coffee Break for all delegates in Transatlantico on Deck 7.</p>
+      
+      <p><b>11:00 &ndash; 13:30</b>
+      
+      </p>
+      
+      <p>Plenary Conference Sessions will take place in the Teatro L&rsquo;avanguardia on Deck 6.</p>
+      
+      <p>Bleisurely Futures (Room 101)</p>
+      
+      <p>Keynote speaker: Chris Hadfield</p>
+      
+      <p>Conference Reflections, Steven Esom</p>
+      
+      <p>Conference 2017</p>
+      
+      <p></p>
+      
+      <p></p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -260,22 +343,45 @@
       <![CDATA[13:00]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>10:30 &ndash; 11:00</b>
-        </p>
-        <p>
-        </p>
-        <p>Coffee Break for Leisure sessions will be in Il
-        Transatlantico on Deck 7 and for Corporate sessions in the Insolito Lounge on
-        Deck 7.
-        </p>
-        <p><b>11:00 &ndash; 13:00</b>
-        </p>
-        <p>Leisure Breakout: (Eyes) Open to the Possibilities in the Teatro
-        L&rsquo;avanguardia on Deck 6/7.
-        </p>
-        <p>Corporate Breakout: TMC 20/20 Vision &ndash; Progress and
-        Potential in the Insolito Lounge on Deck 7.
-        </p>]]>
+    <![CDATA[<p><b>10:30 &ndash; 11:00</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>Coffee Break for Corporate Breakout in the Insolito Lounge on Deck 7 and for Leisure Breakout in Transatlantico on Deck 7.</p>
+      
+      <p><b>11:00 &ndash; 13:00</b>
+      
+      </p>
+      
+      <p><b>Corporate Breakout Insolito Lounge on Deck 7</b>
+      
+      </p>
+      
+      <p><b>TMC 20/20 Vision - Progress and Potential</b>
+      
+      </p>
+      
+      <p>The Buyer's Perspective: Progress</p>
+      
+      <p>In the Hot Seat: Buyer Insights</p>
+      
+      <p>The Perfect TMC: Facing the Challenges</p>
+      
+      <p><b>Leisure Breakout Teatro L'avanguardia on Deck 6</b>
+      
+      </p>
+      
+      <p><b>(Eyes) Open to the Possibilities</b>
+      
+      </p>
+      
+      <p>Open to the Possibilities: The importance of partner relationships</p>
+      
+      <p>Open skies - Local agents - Local airports</p>
+      
+      <p>Woudl I lie to you? What do you actually know about our industry?</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -295,19 +401,29 @@
       <![CDATA[a]]>
     </part_of_day>
     <start_time>
-      <![CDATA[14:00]]>
+      <![CDATA[13:00]]>
     </start_time>
     <end_time>
       <![CDATA[17:00]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>13:00 onwards</b>
-        </p>
-        <p></p>
-        <p>We set sail from Palma at 5pm so you will have some time to
-        look around Palma at your leisure or join a shore excursion before we leave.
-        Alternatively you can return to the ship to fully explore it and experience the
-        Aurea Spa, the 4D cinema and the F1 simulator.</p>]]>
+    <![CDATA[<p><b>13:00 - 17:00</b>
+      
+      </p>
+      
+      <p><b>Lunch at leisure / Free time</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>We set sail from Palma at 5pm so you will have some time to
+      
+      look around Palma at your leisure.
+      
+      Alternatively you can return to the ship to fully explore it and experience the
+      
+      Aurea Spa, the 4D cinema and the F1 simulator.</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -330,52 +446,16 @@
       <![CDATA[13:30]]>
     </start_time>
     <end_time>
-      <![CDATA[18:30]]>
-    </end_time>
-    <title>
-      <![CDATA[<p><b>13:30 onwards</b>
-        </p>
-        <p>
-        </p>
-        <p>Lunch at leisure. You will have the opportunity to visit
-        Ajaccio, we are planning an official excursion here.
-        </p>
-        <p><b>17:00 &ndash; 18:30</b>
-        </p>
-        <p>Pre-dinner drinks reception in the Insolito Lounge on Deck
-        7.
-        </p>]]>
-    </title>
-    <publish>
-      <![CDATA[y]]>
-    </publish>
-    <sort_order>
-      <![CDATA[3]]>
-    </sort_order>
-  </record>
-  <record>
-    <shedule_id>
-      <![CDATA[161]]>
-    </shedule_id>
-    <title_date>
-      <![CDATA[4]]>
-    </title_date>
-    <part_of_day>
-      <![CDATA[a]]>
-    </part_of_day>
-    <start_time>
       <![CDATA[17:00]]>
-    </start_time>
-    <end_time>
-      <![CDATA[18:30]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>17:00 &ndash; 18:30</b>
-        </p>
-        <p>
-        </p>
-        <p>Captain&rsquo;s Cocktail Reception in the Atrium on deck 9.
-        </p>]]>
+    <![CDATA[<p><b>13:30 - 17:00</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>Lunch at leisure / Free time</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -398,17 +478,16 @@
       <![CDATA[13:00]]>
     </start_time>
     <end_time>
-      <![CDATA[18:30]]>
+      <![CDATA[17:00]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>13:00 onwards</b>
-        </p>
-        <p></p>
-        <p>Lunch at leisure/ Free time</p>
-        <p><b>17:00 &ndash; 18:30</b>
-        </p>
-        <p>Pre-dinner drinks reception in the Insolito Lounge on Deck
-        7.</p>]]>
+    <![CDATA[<p><b>13:00 - 17:00</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>Lunch at leisure / Free time</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -428,27 +507,43 @@
       <![CDATA[e]]>
     </part_of_day>
     <start_time>
-      <![CDATA[18:30]]>
+      <![CDATA[17:00]]>
     </start_time>
     <end_time>
-      <![CDATA[20:00]]>
+      <![CDATA[20:00 onwards]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>18:30 &ndash; 20:00</b>
-        </p>
-        <p>
-        </p>
-        <p>Dinner is served &ndash; the dress code for this evening is 70&rsquo;s
-        (your chance to dress up if you wish).
-        </p>
-        <p>Please note all evening dress codes are applicable for all
-        ship guests for these ship wide events, these dress codes are not exclusive to
-        the Advantage Conference.
-        </p>
-        <p><b>20:00 onwards</b>
-        </p>
-        <p>After dinner bar in the Insolito Lounge on Deck 7.
-        </p>]]>
+    <![CDATA[<p><b>17:00 &ndash; 18:30</b>
+      
+      </p>
+      
+      <p>Pre-dinner drinks reception in the Insolito Lounge on Deck 7.</p>
+      
+      <p>Sponsored by G Adventures.</p>
+      
+      <p><b>18:30 &ndash; 20:00</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>Dinner is served &ndash; the dress code for this evening is 70&rsquo;s
+      
+      (your chance to dress up if you wish if not the dress code is smart casual) .</p>
+      
+      <p>Please note all evening dress codes are applicable for all
+      
+      ship guests for these ship wide events, these dress codes are not exclusive to
+      
+      the Advantage Conference.</p>
+      
+      <p><b>20:00 onwards</b>
+      
+      </p>
+      
+      <p>Post-dinner drinks reception in the Insolito Lounge on Deck 7.</p>
+      
+      <p>Sponsored by Trafalgar.</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -474,22 +569,37 @@
       <![CDATA[20:00]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>18:30 &ndash; 20:00</b>
-        </p>
-        <p>
-        </p>
-        <p>Gala dinner &ndash; the dress code for this evening is Black Tie (tuxedo,
-        dinner jacket or dark suit and tie for gentlemen and formal gown or cocktail
-        dress for ladies).
-        </p>
-        <p>Please note all evening dress codes are applicable for all
-        ship guests for these ship wide events, these dress codes are not exclusive to
-        the Advantage Conference.
-        </p>
-        <p><b>20:00 onwards</b>
-        </p>
-        <p>After dinner drinks at leisure.
-        </p>]]>
+    <![CDATA[<p><b>18:30 &ndash; 20:00</b>
+      
+      </p>
+      
+      <p>
+      
+      </p>
+      
+      <p>Gala dinner &ndash; the dress code for this evening is Black Tie (tuxedo,
+      
+      dinner jacket or dark suit and tie for gentlemen and formal gown or cocktail
+      
+      dress for ladies).
+      
+      </p>
+      
+      <p>Please note all evening dress codes are applicable for all
+      
+      ship guests for these ship wide events, these dress codes are not exclusive to
+      
+      the Advantage Conference.
+      
+      </p>
+      
+      <p><b>20:00 onwards</b>
+      
+      </p>
+      
+      <p>After dinner drinks at leisure.
+      
+      </p>]]>
     </title>
     <publish>
       <![CDATA[y]]>
@@ -509,24 +619,45 @@
       <![CDATA[e]]>
     </part_of_day>
     <start_time>
-      <![CDATA[18:30]]>
+      <![CDATA[17:00]]>
     </start_time>
     <end_time>
-      <![CDATA[20:00]]>
+      <![CDATA[20:00 onwards]]>
     </end_time>
     <title>
-      <![CDATA[<p><b>18:30 &ndash; 20:00</b>
-        </p>
-        <p>Dinner &ndash; the dress code for this evening is Italian (smart
-        casual). MSC have said that staff generally wear red, green and white but very
-        few customers stick to the theme and it definitely isn&rsquo;t fancy dress.</p>
-        <p>Please note all evening dress codes are applicable for all
-        ship guests for these ship wide events, these dress codes are not exclusive to
-        the Advantage Conference.</p>
-        <p><b>20:00 onwards</b>
-        </p>
-        <p></p>
-        <p>After dinner drinks</p>]]>
+    <![CDATA[<p><b>17:00 &ndash; 18:30</b>
+      
+      </p>
+      
+      <p>Pre-dinner drinks reception in the Insolito Lounge on Deck 7.</p>
+      
+      <p>Sponsored by Turkish Airlines.</p>
+      
+      <p><b>18:30 &ndash; 20:00</b>
+      
+      </p>
+      
+      <p>Dinner &ndash; the dress code for this evening is Italian (smart
+      
+      casual). MSC have said that staff generally wear red, green and white but very
+      
+      few customers stick to the theme and it definitely isn&rsquo;t fancy dress.</p>
+      
+      <p>Please note all evening dress codes are applicable for all
+      
+      ship guests for these ship wide events, these dress codes are not exclusive to
+      
+      the Advantage Conference.</p>
+      
+      <p><b>20:00 onwards</b>
+      
+      </p>
+      
+      <p></p>
+      
+      <p>Post-dinner drinks in the Insolito Lounge on Deck 7.</p>
+      
+      <p>Sponsored by Travel 2.</p>]]>
     </title>
     <publish>
       <![CDATA[y]]>

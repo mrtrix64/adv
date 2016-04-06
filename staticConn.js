@@ -28,7 +28,7 @@ dsBreakout.setColumnType("speaker1_desc", "html");
 dsBreakout.setColumnType("speaker2_desc", "html");
 dsBreakout.setColumnType("speaker3_desc", "html");
 dsBreakout.setColumnType("date_time", "number");
-var dsNews = new Spry.Data.XMLDataSet("xml_static_data/news.xml", "recordset/record");
+var dsNews = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/news.php?view_xml=1", "recordset/record");
 dsNews.setColumnType("news_article", "html");
 var dsSocial = new Spry.Data.XMLDataSet("xml_static_data/social.xml", "recordset/record");
 dsSocial.setColumnType("cms_content", "html");

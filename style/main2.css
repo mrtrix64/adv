@@ -128,11 +128,23 @@ p.weblink {
 	margin: 10px 0px 10px 0px;
 }
 .link_button {
-	margin: 5px auto 0 auto;
-	text-align: left;
+	margin: 10px auto 10px auto;
+	text-align: center;
+	border: 1px solid #ccc;
+	-webkit-border-radius:1em;
+	-moz-border-radius:1em;
+	border-radius:1em;
+	padding: 10px;
 }
 .link_button p {
 	margin: 5px 0px 0px 0px;
+	color: #005bab;
+}
+.link_button h1 {
+	color: #005bab;
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
 }
 .SpryHiddenRegion {
 visibility: hidden;
@@ -407,7 +419,7 @@ img.left {
 	box-shadow: none; !important;
 }
 /*--To make text wrap in listview buttons--*/
-.ui-listview > .ui-li-static, .ui-listview > .ui-li-divider, .ui-listview > li > a.ui-btn {
+.ui-listview > .ui-li-static, .ui-listview > .ui-li-divider, .ui-listview > li > a.ui-btn, a.ui-btn {
 	white-space:normal !important;
 }
 

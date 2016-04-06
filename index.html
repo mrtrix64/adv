@@ -138,8 +138,8 @@ addToHomescreen();
       </div>
       <div class="descriptive_text">
       <p class="speakers">Speaker(s)</p>
-      <a spry:if="'{speaker1_name}' != '' &amp;&amp; '{speaker1_name}' != 'undefined'" href="#plenary_speaker1_detail" class="ui-btn ui-corner-all">{speaker1_name}</a>
-      <a  spry:if="'{speaker2_name}' != '' &amp;&amp; '{speaker2_name}' != 'undefined'" href="#plenary_speaker2_detail" class="ui-btn ui-corner-all">{speaker2_name}</a><a spry:if="'{speaker3_name}' != '' &amp;&amp; '{speaker3_name}' != 'undefined'" href="#plenary_speaker3_detail" class="ui-btn ui-corner-all">{speaker3_name}</a>
+      <a spry:if="'{speaker1_name}' != '' &amp;&amp; '{speaker1_name}' != 'undefined'" href="#plenary_speaker1_detail" class="ui-btn ui-corner-all">{speaker1_name} >></a>
+      <a  spry:if="'{speaker2_name}' != '' &amp;&amp; '{speaker2_name}' != 'undefined'" href="#plenary_speaker2_detail" class="ui-btn ui-corner-all">{speaker2_name} >></a><a spry:if="'{speaker3_name}' != '' &amp;&amp; '{speaker3_name}' != 'undefined'" href="#plenary_speaker3_detail" class="ui-btn ui-corner-all">{speaker3_name} >></a>
         <p>{cms_content}</p>
       </div>
     </div>
@@ -246,16 +246,16 @@ addToHomescreen();
     <div data-role="header" data-theme="b">
       <h1>Breakout Sessions</h1>
       <a href="#leisure_list" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
-    <div spry:detailregion="dsLeisure dsPlenary" role="main"  class="ui-content SpryHiddenRegion">
+    <div spry:detailregion="dsLeisure" role="main"  class="ui-content SpryHiddenRegion">
       <div class="top_detail" >
         <h1>{cms_heading}</h1>
         <h3>{friendly_date} - {time}</h3>
       </div>
       <div class="descriptive_text">
       <p class="speakers">Speaker(s)</p>
-        <a spry:if="'{speaker1_name}' != '' &amp;&amp; '{speaker1_name}' != 'undefined'" href="#leisure_speaker1_detail" class="ui-btn ui-corner-all">{speaker1_name}</a>
-          <a spry:if="'{speaker2_name}' != '' &amp;&amp; '{speaker2_name}' != 'undefined'" href="#leisure_speaker2_detail" class="ui-btn ui-corner-all">{speaker2_name}</a>
-          <a spry:if="'{speaker3_name}' != '' &amp;&amp; '{speaker3_name}' != 'undefined'" href="#leisure_speaker3_detail" class="ui-btn ui-corner-all">{speaker3_name}</a>
+        <a spry:if="'{speaker1_name}' != '' &amp;&amp; '{speaker1_name}' != 'undefined'" href="#leisure_speaker1_detail" class="ui-btn ui-corner-all">{speaker1_name} >></a>
+          <a spry:if="'{speaker2_name}' != '' &amp;&amp; '{speaker2_name}' != 'undefined'" href="#leisure_speaker2_detail" class="ui-btn ui-corner-all">{speaker2_name} >></a>
+          <a spry:if="'{speaker3_name}' != '' &amp;&amp; '{speaker3_name}' != 'undefined'" href="#leisure_speaker3_detail" class="ui-btn ui-corner-all">{speaker3_name} >></a>
         
         <p>{cms_content}</p>
       </div>
@@ -267,7 +267,7 @@ addToHomescreen();
     <div data-role="header" data-position="fixed" data-theme="b">
       <h1>Speakers</h1>
       <a href="#leisure_detail" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
-    <div spry:detailregion="dsLeisure dsPlenary" role="main"  class="ui-content SpryHiddenRegion">
+    <div spry:detailregion="dsLeisure" role="main"  class="ui-content SpryHiddenRegion">
       <div spry:choose="spry:choose">
         <div spry:when="'{speaker1_img}' != '' &amp;&amp; '{speaker1_img}' != 'undefined'" class="top_detail"> <img src="uploads/{speaker1_img}" alt="{speaker1_name}" width="75" height="95" border="0">
           <h1>{speaker1_name}</h1>
@@ -362,16 +362,16 @@ addToHomescreen();
     <div data-role="header" data-theme="b">
       <h1>Breakout Sessions</h1>
       <a href="#breakout_list" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
-    <div spry:detailregion="dsBreakout dsPlenary" role="main"  class="ui-content SpryHiddenRegion">
+    <div spry:detailregion="dsBreakout" role="main"  class="ui-content SpryHiddenRegion">
       <div class="top_detail" >
         <h1>{cms_heading}</h1>
         <h3>{friendly_date} - {time}</h3>
       </div>
       <div class="descriptive_text"> 
       <p class="speakers">Speaker(s)</p>
-      <a spry:if="'{speaker1_name}' != '' &amp;&amp; '{speaker1_name}' != 'undefined'" href="#breakout_speaker1_detail" class="ui-btn ui-corner-all">{speaker1_name}</a>
-      <a spry:if="'{speaker2_name}' != '' &amp;&amp; '{speaker2_name}' != 'undefined'" href="#breakout_speaker2_detail" class="ui-btn ui-corner-all">{speaker2_name}</a>
-      <a spry:if="'{speaker3_name}' != '' &amp;&amp; '{speaker1_name}' != 'undefined'" href="#breakout_speaker3_detail" class="ui-btn ui-corner-all">{speaker3_name}</a>
+      <a spry:if="'{speaker1_name}' != '' &amp;&amp; '{speaker1_name}' != 'undefined'" href="#breakout_speaker1_detail" class="ui-btn ui-corner-all">{speaker1_name} >></a>
+      <a spry:if="'{speaker2_name}' != '' &amp;&amp; '{speaker2_name}' != 'undefined'" href="#breakout_speaker2_detail" class="ui-btn ui-corner-all">{speaker2_name} >></a>
+      <a spry:if="'{speaker3_name}' != '' &amp;&amp; '{speaker1_name}' != 'undefined'" href="#breakout_speaker3_detail" class="ui-btn ui-corner-all">{speaker3_name} >></a>
         <p>{cms_content}</p>
       </div>
     </div>
@@ -510,7 +510,7 @@ addToHomescreen();
       <a href="#schedulemenu" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
     <div spry:region="dsSchedule" role="main"  class="ui-content SpryHiddenRegion">
       <div spry:repeat="dsSchedule" spry:test="'{title_date}'.match(/^[6]/i);">
-        <div class="day5_time">Wed 20th at {start_time} - {end_time}</div>
+        <div class="day5_time">Wed 20th at {start_time}</div>
         <div class="day5Title">{title}</div>
       </div>
     </div>
@@ -523,24 +523,31 @@ addToHomescreen();
       <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all" >Home</a> </div>
     <div role="main" class="ui-content">
       <div class="link_button">
-        <p > <a href="mailto:moreinfo@thetravelconvention.com?subject=Email from iPhone App" target="_blank" class="ui-btn ui-corner-all">General Convention Queries:<br />
-          moreinfo@thetravelconvention.com</a></p>
+        <h1>MSC Fantasia</h1>
+     
+          <p><a href="tel:00870764878834" target="_blank" class="ui-btn ui-corner-all contact_details">00870 764878834</a></p>
+          <p><a href="tel:00870764878835" target="_blank" class="ui-btn ui-corner-all contact_details">00870 764878835</a></p>  <p><a href="tel:00870764878837" target="_blank" class="ui-btn ui-corner-all contact_details">00870 764878837</a></p>
+</div>
+      <div class="link_button">
+        <h1>Advantage Travel</h1>
+        <p><strong>Nicky Appleby / Dani Ives:</strong><br />
+        <a href="tel:+447944196993" target="_blank" class="ui-btn ui-corner-all contact_details">
+          07944 196993</a></p>
+          <p><a href="mailto:events@advantagetravelpartnership.com" target="_blank" class="ui-btn ui-corner-all contact_details">
+          events@advantagetravelpartnership.com</a></p>
+          <p><strong>Colin O'Neill:</strong><br />
+            <a href="tel:+447967588979" target="_blank" class="ui-btn ui-corner-all contact_details">
+          07967 588979</a></p><p><a href="mailto:colinos@advantagetravelpartnership.com" class="ui-btn ui-corner-all contact_details">colino@advantagetravelpartnership.com</a></p>
       </div>
       <div class="link_button">
-        <p><a href="mailto:Ashley@dellardavies.com" target="_blank" class="ui-btn ui-corner-all">Sponsor Queries:<br />
-          Ashley@dellardavies.com</a></p>
-      </div>
-      <div class="link_button">
-        <p><a href="tel:+447920299192" class="ui-btn ui-corner-all">Accommodation Queries:<br />
-          +44 7920 299 192</a></p>
-      </div>
-      <div class="link_button">
-        <p><a href="tel:+447762084057" class="ui-btn ui-corner-all">Official Photographer:<br />
-          +44 7932 732273</a></p>
-      </div>
-      <div class="link_button">
-        <p ><a href="mailto:Elaine@dellardavies.com" target="_blank" class="ui-btn ui-corner-all">Questions for speakers:<br />
-          Elaine@dellardavies.com</a></p>
+        <h1>MSC</h1>
+        <p><strong>Alyshia Bartlett:</strong><br />
+        <a href="tel:+447920011392" target="_blank" class="ui-btn ui-corner-all contact_details">
+          07920 011392</a></p><p><a href="mailto:alyshia.bartlett@msccruises.co.uk" target="_blank" class="ui-btn ui-corner-all contact_details">alyshia.bartlett@msccruises.co.uk</a></p>
+          <p><strong>Danielle Weller:</strong><br />
+            <a href="tel:+447917632544" target="_blank" class="ui-btn ui-corner-all contact_details">
+         07917 632544</a></p>
+        <p><a href="mailto:danielle.weller@msccruises.co.uk" class="ui-btn ui-corner-all contact_details">danielle.weller@msccruises.co.uk</a></p>
       </div>
 </div>
      <div data-role="footer">
@@ -625,7 +632,20 @@ addToHomescreen();
       <a href="#home" class="ui-btn ui-btn-b ui-icon-back ui-btn-icon-left ui-corner-all">back</a> <a href="#home" class="ui-btn ui-btn-b ui-icon-home ui-btn-icon-left ui-corner-all">Home</a> </div>
     <div spry:region="dsSocial" role="main"  class="ui-content SpryHiddenRegion">
       <ul data-role="listview">
-        <li spry:repeat="dsSocial"  spry:setrow="dsSocial" > <a href="#social_detail">{cms_heading}</a>
+        <!--<li spry:repeat="dsSocial"  spry:setrow="dsSocial" > <a href="#social_detail">{cms_heading}</a>-->
+        
+         <li data-role="list-divider">Day One (Saturday 16th April)</li>
+        <li spry:repeat="dsSocial" spry:test="'{date_time}'.match(/^[2]/i);" spry:setrow="dsSocial" > <a href="#social_detail">{time} - {cms_heading}</a></li>
+        
+                 <li data-role="list-divider">Day Two (Sunday 17th April)</li>
+        <li spry:repeat="dsSocial" spry:test="'{date_time}'.match(/^[3]/i);" spry:setrow="dsSocial" > <a href="#social_detail">{time} - {cms_heading}</a></li>
+        
+                 <li data-role="list-divider">Day Three (Monday 18th April)</li>
+        <li spry:repeat="dsSocial" spry:test="'{date_time}'.match(/^[4]/i);" spry:setrow="dsSocial" > <a href="#social_detail">{time} - {cms_heading}</a></li>
+        
+        <li data-role="list-divider">Day Four (Tuesday 19th April)</li>
+        <li spry:repeat="dsSocial" spry:test="'{date_time}'.match(/^[5]/i);" spry:setrow="dsSocial" > <a href="#social_detail">{time} - {cms_heading}</a></li>
+        
       </ul> 
     </div>
     <div data-role="footer">
@@ -642,7 +662,8 @@ addToHomescreen();
     <div role="main" class="ui-content">
 <div spry:detailregion="dsSocial">
   <h3>{cms_heading}</h3>
-  <p>{cms_content}      </p>
+  <h5>{friendly_date} - {time}</h5>
+  <p>{cms_content}</p>
   
 </div>
     </div>
@@ -727,14 +748,14 @@ addToHomescreen();
         <div spry:when="'{iphone_image}' != '' &amp;&amp; '{iphone_image}' != 'undefined'"> 
 </div>
          <!--<div spry:default="spry:default"> 
-         <h1>{dsSponsors::exhibitor_name}</h1>
+         <h1>{dexhibitor_name}</h1>
         </div>--> 
       </div>
       <div class="descriptive_text">
         <h3>{exhibitor_name}</h3>
         <p spry:if="'{client_image}' != '' &amp;&amp; '{client_image}' != 'undefined'"><img src="uploads/{client_image}" width="200" /></p>
         <p>{description}</p>
-        <p spry:if="'{website}' != 'http://www.'&amp;&amp; '{website}' != 'undefined'"><a href="#" onclick="window.open('{website}','_system','location=yes','enableViewPortScale=yes');" class="ui-btn ui-corner-all">Visit Website</a></p>
+        <p spry:if="'{website}' != 'http://www.'&amp;&amp; '{website}' != 'undefined'"><a href="#" onclick="window.open('{website}','_blank','location=yes','enableViewPortScale=yes');" class="ui-btn ui-corner-all">Visit Website</a></p>
       </div>
     </div>
   </div><!--end sponsor_detail-->
@@ -759,7 +780,7 @@ addToHomescreen();
           Managing Director<br>
           Advantage Travel Partnership</p>
         
-<a href="#" onclick="window.open('#','_blank','location=yes','enableViewPortScale=yes');" class="ui-btn ui-corner-all">Visit Website</a>      </div>
+<a href="#" onclick="window.open('http://advantageconference.co.uk/','_blank','location=yes','enableViewPortScale=yes');" class="ui-btn ui-corner-all">Visit Website</a>      </div>
     </div>
   </div><!--end app_sponsor-->
  

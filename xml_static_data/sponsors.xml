@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<recordset total="10">
+<recordset total="9">
   <record>
     <exhibitor_id>
       <![CDATA[396]]>
     </exhibitor_id>
     <username>
-      <![CDATA[Affordable]]>
+      <![CDATA[]]>
     </username>
     <password>
-      <![CDATA[Affordable1]]>
+      <![CDATA[]]>
     </password>
     <exhibitor_name>
       <![CDATA[Affordable Car Hire]]>
     </exhibitor_name>
     <description>
       <![CDATA[<p>In the last 12 months, Affordable Car Hire cemented its position as the UK&rsquo;s leading independently owned car-rental company, winning numerous industry awards in the process.</p>
+        
         <p>By responding quickly to changes in the marketplace, and through unwavering commitment to supporting our travel agent partners, Affordable has been able to invest in tools to increase agent sales and profitability.&nbsp;</p>
+        
         <p>A number of major improvements, including several innovative time-saving features, were added to the CARS (Complete Affordable Rental System) booking engine, following many months talking to user groups to establish the refinements they wanted to see. This resulted in a recently introduced 'Affordable Recommends' feature, which is now being used in 90% of all bookings.</p>
+        
         <p>In 2016, we will focus on agents learning and development by improving our weekly webinars and enhancing our training programme, whilst bolstering the field sales team, launching innovative marketing promotions, and driving-add on sales for agents.</p>]]>
     </description>
     <aims>
@@ -26,7 +29,7 @@
       <![CDATA[http://affordablecarhire.com/en/home/index?dm_i=2Q1O,5PJV,1LYNIQ,HBXY,1]]>
     </website>
     <client_image>
-      <![CDATA[]]>
+      <![CDATA[AFFORDABLE_logo_NEW.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
@@ -43,30 +46,35 @@
       <![CDATA[397]]>
     </exhibitor_id>
     <username>
-      <![CDATA[BA]]>
+      <![CDATA[]]>
     </username>
     <password>
-      <![CDATA[BA1]]>
+      <![CDATA[]]>
     </password>
     <exhibitor_name>
       <![CDATA[British Airways]]>
     </exhibitor_name>
     <description>
       <![CDATA[<p>Four simple words capture the essence of British Airways &lsquo;To Fly. To Serve.&rsquo; These words describe the passion and expertise that British Airway sets out to demonstrate to customers every day; delivering a unique combination of iconic British style, a thoughtful service that is personal and knowledgeable; and unrivalled flying know-how. The airline&rsquo;s reputation is built on its heritage of excellence in all areas of flying, its uncompromising standards of safety and security and the commitment to set new standards for the future.</p>
+        
         <p>2015 was an exciting year as we launched a refreshed On Business programme, designed for small and medium-sized business to save money on their travel budgets, as well as other benefits, such as collecting and spending On Business points across the American Airlines, British Airways and Iberia networks.&nbsp;</p>
+        
         <p>In 2016 we will launch new long haul services to Lima, Costa Rica and San Jose plus a new daily flight to New York (JFK) from London Gatwick in addition to offering scheduled flights from London Stansted for the first time.</p>
+        
         <div>
+        
         <br />
+        
         </div>]]>
     </description>
     <aims>
       <![CDATA[<p></p>]]>
     </aims>
     <website>
-      <![CDATA[http://www.britishairways.com/trade/tradegateway.jsp/global/public/en_gb?dm_i=2Q1O,4EQH,1XRTYS,CT4P,1]]>
+      <![CDATA[http://www.britishairways.com/trade/tradegateway.jsp/global/public/en_gb?dm_i=2Q1O,4EQH,1LYNIQ,CT4P,1]]>
     </website>
     <client_image>
-      <![CDATA[]]>
+      <![CDATA[Standard_BA_logo_-_blue_writing_red_speedmarque_2013.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
@@ -83,31 +91,37 @@
       <![CDATA[398]]>
     </exhibitor_id>
     <username>
-      <![CDATA[Collette]]>
+      <![CDATA[]]>
     </username>
     <password>
-      <![CDATA[Collette1]]>
+      <![CDATA[]]>
     </password>
     <exhibitor_name>
       <![CDATA[Collette]]>
     </exhibitor_name>
     <description>
       <![CDATA[<p>Getting to know a new culture goes way beyond the landmarks and the museums, it&rsquo;s the people that make a visit to a destination one to remember forever. For nearly 100 years, Collette have passionately taken passengers all over the globe, and today we feature over 120 touring holidays across all seven continents. It&rsquo;s what we do best!</p>
+        
         <p>Travelling with others is such a great way to explore the world&rsquo;s most remarkable destinations, whether you choose from our Classic Tour range or from one of our Small group Explorations, your comfort and enjoyment is at the heart of everything we do. In addition to these popular tours we also feature a range of City Breaks, and let&rsquo;s not forget our new River Cruise program combining the beauty of escorted touring with the ever popular demand for river cruising. We really do have something for everyone!</p>
+        
         <p>Collette is thrilled to be a headline sponsor of the Advantage Conference, we are proud to support all Advantage members, and would like to thank you for the continued support you have shown us over the years.&nbsp;</p>
+        
         <p>There are lots of great changes happening at Collette at the moment &ndash; too much to tell you now. However, we&rsquo;ll be delighted to catch up during this great conference and share all our exciting news… watch this space!</p>
+        
         <div>
+        
         <br />
+        
         </div>]]>
     </description>
     <aims>
       <![CDATA[<p></p>]]>
     </aims>
     <website>
-      <![CDATA[http://www.gocollette.com/en-gb?dm_i=2Q1O,6QAY,1LYNIQ,KW7L,1]]>
+      <![CDATA[http://www.gocollette.com/en-gb]]>
     </website>
     <client_image>
-      <![CDATA[]]>
+      <![CDATA[NEW_2014_collette_logo_2c.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
@@ -124,41 +138,57 @@
       <![CDATA[399]]>
     </exhibitor_id>
     <username>
-      <![CDATA[Jet2holidays]]>
+      <![CDATA[]]>
     </username>
     <password>
-      <![CDATA[Jet2holidays1]]>
+      <![CDATA[]]>
     </password>
     <exhibitor_name>
       <![CDATA[Jet2holidays]]>
     </exhibitor_name>
     <description>
       <![CDATA[<p>Jet2holidays are very aware of the value of Independent travel agents and it is for this reason that we continue to sponsor the Advantage Conference.</p>
+        
         <p>Regardless of your customer needs we have something to suit, and of course we still offer this for a fantastic low deposit of just £60. We only operate flights with our sister company, Jet2.com, the quality leisure airline. This ensures we maintain the highest standards from start to finish of every package holiday. &nbsp; &nbsp;&nbsp;</p>
+        
         <p><b>Beach: </b>Great value holidays to the best-selling mainstream destinations.
+        
         </p>
+        
         <p><b>Families:</b> Free child places, infants go free, single parent discount, plus properties offering access to water and theme parks.
+        
         </p>
+        
         <p><b>Jet2CityBreaks: </b>Ideal for shopping trips, romantic breaks, sight-seeing and groups.
+        
         </p>
+        
         <p><b>On Tour: </b>The hottest beach and city destinations for those looking to be chilled out or wild.
+        
         </p>
+        
         <p><b>Indulgent Escapes: </b>The finest 5 star properties ensuring stunning locations, utmost service and exceptional quality. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        
         </p>
+        
         <p><b>Winter Holidays:</b> Long stays, active breaks and Christmas markets.
+        
         </p>
+        
         <div>
+        
         <br />
+        
         </div>]]>
     </description>
     <aims>
       <![CDATA[<p></p>]]>
     </aims>
     <website>
-      <![CDATA[https://trade.jet2holidays.com/tslogin?ReturnUrl=%2f%3fdm_i%3d2Q1O%2c5B2B%2c1LYNIQ%2cFOI7%2c1&dm_i=2Q1O,5B2B,1LYNIQ,FOI7,1]]>
+      <![CDATA[https://trade.jet2holidays.com/]]>
     </website>
     <client_image>
-      <![CDATA[]]>
+      <![CDATA[16921jet_2_holidays_strap_MASTER2.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
@@ -175,29 +205,33 @@
       <![CDATA[400]]>
     </exhibitor_id>
     <username>
-      <![CDATA[Melia]]>
+      <![CDATA[]]>
     </username>
     <password>
-      <![CDATA[Melia1]]>
+      <![CDATA[]]>
     </password>
     <exhibitor_name>
       <![CDATA[Meliá Hotels]]>
     </exhibitor_name>
     <description>
       <![CDATA[<p>Meliá Hotels International is looking forward to being part of the Advantage Conference in 2016 and to be showcasing their hotels there, the calibre and type of clients of this conference fits very well with our company.</p>
+        
         <p>The hotel chain was founded in 1956 in Palma de Mallorca (Spain), Meliá Hotels International is one of the largest hotel companies worldwide as well as the absolute leader within the Spanish market, with more than 370 hotels throughout more than 40 countries and four continents under the brands: Gran Meliá, Meliá Hotels &amp; Resorts, Paradisus Resorts, ME by Meliá, INNSIDE by Meliá, Tryp by Wyndham and Sol Hotels. Meliá Hotels International will be the first Spanish hotel company with presence in key markets such as China, the Arabian Gulf and the US, as well as maintaining its leadership in traditional markets such as Europe, Latin America and the Caribbean.</p>
+        
         <div>
+        
         <br />
+        
         </div>]]>
     </description>
     <aims>
       <![CDATA[<p></p>]]>
     </aims>
     <website>
-      <![CDATA[http://www.meliahotelsinternational.com/en?dm_i=2Q1O,4WD9,1LYNIQ,EC01,1]]>
+      <![CDATA[http://www.meliahotelsinternational.com/en]]>
     </website>
     <client_image>
-      <![CDATA[]]>
+      <![CDATA[Melia_Hotels_Black_Logo.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
@@ -224,20 +258,25 @@
     </exhibitor_name>
     <description>
       <![CDATA[<p>MSC Cruises is delighted to welcome you on board MSC Fantasia for the Advantage Conference 2016. Over the last two years our relationship with Advantage has gone from strength to strength &ndash; and it is a relationship we are committed to developing further as we enter an exciting period of expansion. We know Advantage members are passionate, independent and represent what is great about UK travel retailing. This fantastic event offers the opportunity for you to experience MSC Cruises first hand &ndash; we are sure you won&rsquo;t be disappointed.</p>
+        
         <p></p>
+        
         <p>Working with MSC Cruises opens up a whole world of opportunities for you and your clients. Of course, we&rsquo;re the market leaders in the Mediterranean, but we&rsquo;ve also got plenty more options to suit all tastes and budgets. Nordic and Baltics cruises, Caribbean sailings, our amazing new Cuba itineraries and the biggest operation in the Arabian Sea. All this comes with market-leading rates of commission, great net rates and superb group packages. And with seven new ships on order, set for delivery by 2022, MSC Cruises is set to get even bigger. We look forward to sharing our success with you.</p>
+        
         <div>
+        
         <br />
+        
         </div>]]>
     </description>
     <aims>
       <![CDATA[<p></p>]]>
     </aims>
     <website>
-      <![CDATA[]]>
+      <![CDATA[https://www.mscbook.com/]]>
     </website>
     <client_image>
-      <![CDATA[MSC_Conference_Website_Banner.jpg]]>
+      <![CDATA[msc_logo.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
@@ -254,65 +293,31 @@
       <![CDATA[401]]>
     </exhibitor_id>
     <username>
-      <![CDATA[Skyteam]]>
+      <![CDATA[]]>
     </username>
     <password>
-      <![CDATA[Skyteam1]]>
+      <![CDATA[]]>
     </password>
     <exhibitor_name>
       <![CDATA[SkyTeam]]>
     </exhibitor_name>
     <description>
       <![CDATA[<p>SkyTeam is once again proud to sponsor this year&rsquo;s Advantage Conference and we look forward to seeing you all in April. &nbsp;</p>
+        
         <p>With a proven track record of delivering customer-focused initiatives, SkyTeam has a personalized approach to service, developing new and innovative ways to make the most of time spent travelling worldwide.</p>
+        
         <p>Comprising 20 of the world&rsquo;s leading airlines, our members offer a high standard of service on board and on the ground. SkyTeam&rsquo;s extensive network of 1,057 worldwide destinations, plus more than 16,000 daily departures, means customers can get anywhere they have to be. As we also offer SkyPriority airport benefits across our network, they&rsquo;ll enjoy priority services along the way that enhance the travel experience.&nbsp;</p>
+        
         <p>Thank you all for your continued support. SkyTeam was founded with a promise of caring more about customers and together we&rsquo;re working to make travel more seamless than ever.&nbsp;</p>]]>
     </description>
     <aims>
       <![CDATA[<p></p>]]>
     </aims>
     <website>
-      <![CDATA[http://www.skyteam.com/en?dm_i=2Q1O%2C60B4%2C1LYNIQ%2CI66N%2C1]]>
+      <![CDATA[http://www.skyteam.com/en]]>
     </website>
     <client_image>
-      <![CDATA[]]>
-    </client_image>
-    <publish>
-      <![CDATA[y]]>
-    </publish>
-    <level>
-      <![CDATA[exhibitor]]>
-    </level>
-    <iphone_image>
-      <![CDATA[]]>
-    </iphone_image>
-  </record>
-  <record>
-    <exhibitor_id>
-      <![CDATA[395]]>
-    </exhibitor_id>
-    <username>
-      <![CDATA[anything]]>
-    </username>
-    <password>
-      <![CDATA[anything]]>
-    </password>
-    <exhibitor_name>
-      <![CDATA[Test]]>
-    </exhibitor_name>
-    <description>
-      <![CDATA[<p>Currens defectibilitas recubitus dimidiatus, escendo caela mi supplosio euus? Suffamen egeo. Malachita aurigenus commemoramentum mithridates posculentus coph pravicors au, circumstridens adfirmator musica sto commissum inurbanus permissivus sesquiquartnarius infidus hs vomitorius trinarius obdo. Adplumbo precordialis infirmus, adsudesco aceo que agaso prominens catella praegracilis harmonice curro deducticius heli eq infatigabilis interluo? Demissitius offulgeo sucinum!</p>
-        <p>Triticeus natio intercalarius chamaemilla cama canum sequestre comprehensibilitas scariphatio ara contemplo opulente cognoscibilitas contrado abba orthopaeda oratio anthropomorphitus confervefio insulio dux exsurrectio inrasus germen. Novella sopor possessiuncula velifer coperor lenitudo fe omasum fideicommissarius, assumentum boo bucinus crus incomprehensibilis inormis terg animans exhaustus vellico. Homagium textor inoboedientiarius hyperbola rugo servio dea incorruptibiliter orthopaedia directorius refutatus, cointelligo incommensurabilis praepono patino prex. Baptismalis diverto careota conjecturaliter manioca lanna nuper intercurso octo adverse delevo suppositicius galbinus sinuo imp inordinatus melismaticus derisor saltatrix vis carnifico putidiusculus atattae independens adprimo.</p>
-        <p>Chorobates exsecribilis perfidiosus burgensis persigno desacrifico avis, dator motio redimiculum ignatius supersubstantialis conpositum neptis atrox columnella suum conpromissarius mandibula. Pyctes cyrene consubstantialitas deformo prolapsio allophylus do multiloquium septingenti bellatulus septifarius plo cornuta lamina archaeologia tonstrina ha aha cujuscemodi duo populista? Sertula leg incorruptibilitas propterea vidulus creo arvum hendecasyllabus saliunca doma excetra adpeto vas supersubstantialis diffinitio occidens, hac angario juditium. Aureola crucesignatus adtumulo auxiliarius nox pl particularisticus pacifico cum consuetudo chenamyche fas navale amarum inspectio antecedens apyrenum supervacuaneus conlecte va archigallus depango. Sordesceo putatio sesquiquartnarius arrhenicum cuneus, antidoron veto em lapsio calciamentarius accersitor bacciballum epistola commigratio percrebesco joco pusus.</p>]]>
-    </description>
-    <aims>
-      <![CDATA[<p>Aureola crucesignatus adtumulo auxiliarius nox pl particularisticus pacifico cum consuetudo chenamyche fas navale amarum inspectio antecedens apyrenum supervacuaneus conlecte va archigallus depango. Sordesceo putatio sesquiquartnarius arrhenicum cuneus, antidoron veto em lapsio calciamentarius accersitor bacciballum epistola commigratio percrebesco joco pusus.</p>]]>
-    </aims>
-    <website>
-      <![CDATA[http://www.bbc.co.uk]]>
-    </website>
-    <client_image>
-      <![CDATA[]]>
+      <![CDATA[st_blockm_slogan_blue_on_white2.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
@@ -329,10 +334,10 @@
       <![CDATA[402]]>
     </exhibitor_id>
     <username>
-      <![CDATA[Thomascook]]>
+      <![CDATA[]]>
     </username>
     <password>
-      <![CDATA[thomascook1]]>
+      <![CDATA[]]>
     </password>
     <exhibitor_name>
       <![CDATA[Thomas Cook]]>
@@ -344,10 +349,10 @@
       <![CDATA[<p></p>]]>
     </aims>
     <website>
-      <![CDATA[]]>
+      <![CDATA[https://www.thomascook.com/]]>
     </website>
     <client_image>
-      <![CDATA[]]>
+      <![CDATA[ThomasCook_hori_cmyk.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
@@ -364,30 +369,35 @@
       <![CDATA[403]]>
     </exhibitor_id>
     <username>
-      <![CDATA[T2GM]]>
+      <![CDATA[]]>
     </username>
     <password>
-      <![CDATA[T2GM1]]>
+      <![CDATA[]]>
     </password>
     <exhibitor_name>
       <![CDATA[Travel 2 and Gold Medal]]>
     </exhibitor_name>
     <description>
       <![CDATA[<p>Together, Gold Medal and Travel 2 offer 80 years of expertise in providing tailor-made holidays for independent travel agent partners.</p>
+        
         <p>With an extensive portfolio range, we offer everything you could possibly need to create the perfect holiday, including; long haul getaways, cruising and touring options plus short haul and long haul luxury escapes - all specifically designed for your customers&rsquo; requirements. &nbsp;Our longstanding relationships with key suppliers such as airlines, hotel chains, car hire, cruising and touring companies, combined with the buying power of Gold Medal and Travel 2, ensures we can secure exclusive deals to showcase the most competitive prices in the market.</p>
+        
         <p>Not only that, in true Gold Medal and Travel 2 style, we thank our agent partners with an exciting variety of FAM trip opportunities, holidays, prizes and reward schemes. We also provide training programmes to help you gain additional knowledge and selling tips for those all important bookings.</p>
+        
         <div>
+        
         <br />
+        
         </div>]]>
     </description>
     <aims>
       <![CDATA[<p></p>]]>
     </aims>
     <website>
-      <![CDATA[]]>
+      <![CDATA[http://content.travel2.com/gm-t2-advantage/index.html]]>
     </website>
     <client_image>
-      <![CDATA[]]>
+      <![CDATA[Gold_Medal_Travel_2_Stacked_Logo_2.jpg]]>
     </client_image>
     <publish>
       <![CDATA[y]]>
