@@ -48,6 +48,9 @@
 				dsSocial.setColumnType("sort_order", "number");
 				dsSocial.setColumnType("date_time", "number");
 				var delegates = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/delegates2.php?view_xml=1", "recordset/record");
+				
+				​//str.replace("uploads", "http://advantagetravel.e-update.co.uk/mobile/uploads");
+				$("body").html($("body").html().replace(/uploads/g,'http://advantagetravel.e-update.co.uk/mobile/uploads'));
         }
         else
         {
