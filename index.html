@@ -20,9 +20,14 @@ $(document).bind("mobileinit", function(){
  
  $(window).load(function() {
     // this will fire after the entire page is loaded, including images
-	$("img").error(function () { 
-    $(this).hide();
-	});
+	if(navigator.onLine)
+        {
+           alert("online");
+        }
+        else
+        {
+			alert("offline");
+        }
 });
 </script>
 <script src="jquery-mobile/jquery.mobile-1.4.5.js" type="text/javascript"></script>
