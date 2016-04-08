@@ -49,11 +49,7 @@
 				dsSocial.setColumnType("date_time", "number");
 				var delegates = new Spry.Data.XMLDataSet("http://advantagetravel.e-update.co.uk/mobile/data/delegates2.php?view_xml=1", "recordset/record");
 				
-				$("body").html($("body").html().replace(/uploads/g,'http://advantagetravel.e-update.co.uk/mobile/uploads'));
-				$("img").error(function () { 
-    			$(this).hide();
-    			// or $(this).css({visibility:"hidden"}); 
-});
+				
         }
         else
         {
