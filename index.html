@@ -802,15 +802,16 @@ addToHomescreen();
   
 </div><!--end pagecontainer-->
 <script>
+//Change image path depending if online or not
 if(navigator.onLine)
         {
-           alert("ONLINE");
+           //alert("ONLINE");
 		   $("body").html($("body").html().replace(/uploads/g,'http://advantagetravel.e-update.co.uk/mobile/uploads'));
 
         }
         else
         {
-			alert("OFFLINE");
+			//alert("OFFLINE");
         }
 
 </script>
