@@ -16,19 +16,6 @@
 $(document).bind("mobileinit", function(){
     $.mobile.defaultPageTransition = 'slide'
  });
- 
- 
- $(window).load(function() {
-    // this will fire after the entire page is loaded, including images
-	if(navigator.onLine)
-        {
-           alert("online");
-        }
-        else
-        {
-			alert("offline");
-        }
-});
 </script>
 <script src="jquery-mobile/jquery.mobile-1.4.5.js" type="text/javascript"></script>
 <script src="SpryAssets/xpath.js" type="text/javascript"></script>
@@ -814,5 +801,17 @@ addToHomescreen();
   </div><!--end offline-->
   
 </div><!--end pagecontainer-->
+<script>
+//Hide lost images
+(function() {
+    var allimgs = document.images;
+    for (var i = 0; i < allimgs.length; i++) {
+        allimgs[i].onerror = function() {
+            this.style.visibility = "hidden"; // Other elements aren't affected. 
+        }
+    }
+})();
+
+</script>
 </body>
 </html>
